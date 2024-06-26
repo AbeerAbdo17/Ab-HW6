@@ -1,0 +1,68 @@
+2024-02-15 15:53:14.244 [info] 
+
+
+
+
+2024-02-15 15:53:14.244 [info] Extension host agent started.
+2024-02-15 15:53:14.244 [info] Started initializing default profile extensions in extensions installation folder. file:///root/.vscode-server/extensions
+2024-02-15 15:53:14.273 [info] Completed initializing default profile extensions in extensions installation folder. file:///root/.vscode-server/extensions
+2024-02-15 15:53:14.505 [info] [127.0.0.1][0eaa7f69][ManagementConnection] New connection established.
+2024-02-15 15:53:14.902 [info] [127.0.0.1][e6160dff][ExtensionHostConnection] New connection established.
+2024-02-15 15:53:14.906 [info] [127.0.0.1][e6160dff][ExtensionHostConnection] <18490> Launched Extension Host Process.
+2024-02-15 15:54:03.763 [info] [127.0.0.1][0eaa7f69][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-02-15 15:54:03.836 [info] [127.0.0.1][e6160dff][ExtensionHostConnection] <18490> Extension Host Process exited with code: 0, signal: null.
+2024-02-15 15:54:06.261 [info] [127.0.0.1][3ef94945][ManagementConnection] New connection established.
+2024-02-15 15:54:07.053 [info] [127.0.0.1][d76f8cd1][ExtensionHostConnection] New connection established.
+2024-02-15 15:54:07.065 [info] [127.0.0.1][d76f8cd1][ExtensionHostConnection] <18589> Launched Extension Host Process.
+2024-02-15 15:55:07.261 [info] [127.0.0.1][3ef94945][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-02-15 15:55:07.339 [info] [127.0.0.1][d76f8cd1][ExtensionHostConnection] <18589> Extension Host Process exited with code: 0, signal: null.
+2024-02-15 15:55:09.319 [info] [127.0.0.1][8da7a9df][ManagementConnection] New connection established.
+2024-02-15 15:55:09.993 [info] [127.0.0.1][8b2bedbc][ExtensionHostConnection] New connection established.
+2024-02-15 15:55:10.018 [info] [127.0.0.1][8b2bedbc][ExtensionHostConnection] <18710> Launched Extension Host Process.
+2024-02-15 15:56:18.437 [info] Getting Manifest... ms-python.python
+2024-02-15 15:56:21.218 [info] Installing extension: ms-python.python
+2024-02-15 15:56:23.303 [info] Getting Manifest... ms-python.vscode-pylance
+2024-02-15 15:56:24.596 [info] Getting Manifest... ms-python.debugpy
+2024-02-15 15:56:25.605 [info] Installing extension: ms-python.vscode-pylance ms-python.python
+2024-02-15 15:56:25.605 [info] Installing extension: ms-python.debugpy ms-python.python
+2024-02-15 15:56:44.800 [warning] Extension signature verification failed with error 'ENOENT': ms-python.debugpy
+2024-02-15 15:56:46.280 [info] Extracted extension to file:///root/.vscode-server/extensions/ms-python.debugpy-2024.0.0-linux-x64: ms-python.debugpy
+2024-02-15 15:56:46.349 [info] Renamed to /root/.vscode-server/extensions/ms-python.debugpy-2024.0.0-linux-x64
+2024-02-15 15:56:46.356 [info] Extracting extension completed. ms-python.debugpy
+2024-02-15 15:56:57.910 [warning] Extension signature verification failed with error 'ENOENT': ms-python.python
+2024-02-15 15:57:04.855 [info] Extracted extension to file:///root/.vscode-server/extensions/ms-python.python-2024.0.1: ms-python.python
+2024-02-15 15:57:04.929 [info] Renamed to /root/.vscode-server/extensions/ms-python.python-2024.0.1
+2024-02-15 15:57:04.941 [info] Extracting extension completed. ms-python.python
+2024-02-15 15:57:49.463 [warning] Extension signature verification failed with error 'ENOENT': ms-python.vscode-pylance
+2024-02-15 15:57:58.785 [info] Extracted extension to file:///root/.vscode-server/extensions/ms-python.vscode-pylance-2024.2.2: ms-python.vscode-pylance
+2024-02-15 15:57:58.867 [info] Renamed to /root/.vscode-server/extensions/ms-python.vscode-pylance-2024.2.2
+2024-02-15 15:57:58.880 [info] Extracting extension completed. ms-python.vscode-pylance
+2024-02-15 15:57:58.901 [info] Extension installed successfully: ms-python.debugpy
+2024-02-15 15:57:58.901 [info] Extension installed successfully: ms-python.python
+2024-02-15 15:57:58.901 [info] Extension installed successfully: ms-python.vscode-pylance
+2024-02-15 15:59:13.933 [info] [127.0.0.1][8da7a9df][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-02-15 15:59:14.052 [info] [127.0.0.1][8b2bedbc][ExtensionHostConnection] <18710> Extension Host Process exited with code: 0, signal: null.
+2024-02-15 15:59:15.990 [info] [127.0.0.1][a0b666be][ManagementConnection] New connection established.
+2024-02-15 15:59:16.652 [info] [127.0.0.1][3e55226b][ExtensionHostConnection] New connection established.
+2024-02-15 15:59:16.671 [info] [127.0.0.1][3e55226b][ExtensionHostConnection] <19060> Launched Extension Host Process.
+2024-02-15 16:00:24.708 [info] Getting Manifest... ms-vscode.cpptools-extension-pack
+2024-02-15 16:00:27.666 [info] Installing extension: ms-vscode.cpptools-extension-pack
+2024-02-15 16:00:35.284 [info] Getting Manifest... ms-vscode.cpptools
+2024-02-15 16:00:42.952 [info] Getting Manifest... ms-vscode.cmake-tools
+2024-02-15 16:00:50.932 [info] Getting Manifest... twxs.cmake
+2024-02-15 16:00:53.794 [info] Getting Manifest... ms-vscode.cpptools-themes
+2024-02-15 16:00:55.340 [info] Installing extension: ms-vscode.cpptools ms-vscode.cpptools-extension-pack
+2024-02-15 16:00:55.340 [info] Installing extension: ms-vscode.cmake-tools ms-vscode.cpptools-extension-pack
+2024-02-15 16:00:55.341 [info] Installing extension: twxs.cmake ms-vscode.cpptools-extension-pack
+2024-02-15 16:00:55.341 [info] Installing extension: ms-vscode.cpptools-themes ms-vscode.cpptools-extension-pack
+2024-02-15 16:02:13.915 [info] [127.0.0.1][a0b666be][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-02-15 16:02:13.995 [info] [127.0.0.1][3e55226b][ExtensionHostConnection] <19060> Extension Host Process exited with code: 0, signal: null.
+2024-02-15 16:02:16.259 [info] [127.0.0.1][d40837cf][ManagementConnection] New connection established.
+2024-02-15 16:02:16.927 [info] [127.0.0.1][e65f8abf][ExtensionHostConnection] New connection established.
+2024-02-15 16:02:16.952 [info] [127.0.0.1][e65f8abf][ExtensionHostConnection] <19306> Launched Extension Host Process.
+2024-02-15 16:06:04.703 [warning] Extension signature verification failed with error 'ENOENT': ms-vscode.cpptools-themes
+2024-02-15 16:06:04.761 [info] Extracted extension to file:///root/.vscode-server/extensions/ms-vscode.cpptools-themes-2.0.0: ms-vscode.cpptools-themes
+2024-02-15 16:06:04.769 [info] Renamed to /root/.vscode-server/extensions/ms-vscode.cpptools-themes-2.0.0
+2024-02-15 16:06:04.772 [info] Extracting extension completed. ms-vscode.cpptools-themes
+2024-02-15 16:07:03.261 [info] [127.0.0.1][d40837cf][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2024-02-15 16:07:03.964 [info] [127.0.0.1][e65f8abf][ExtensionHostConnection] <19306> Extension Host Process exited with code: 0, signal: null.
